@@ -2,4 +2,5 @@ build/
 Build/
 lib/
 *.out
-
+*.swp
+app
